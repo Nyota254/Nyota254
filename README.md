@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nyota</h1>
-<h3 align="center">A passionate DevOps engineer from Kenya</h3>
+<h3 align="center">A passionate DevOps and Software engineer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyota254&label=Profile%20views&color=0e75b6&style=flat" alt="nyota254" /> </p>
 
